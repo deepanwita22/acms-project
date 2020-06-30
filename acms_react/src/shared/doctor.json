@@ -1,0 +1,86 @@
+[
+ 
+    {
+          "name": "Dr Ashok Seth", 
+          "email": "ashok21@gmail.com",
+          "phone number": "8756932649",
+          "gender": "Male",
+          "specialization": "cardiologist"
+        },
+    
+    {
+          "name": "Dr Ashok Rajgopal",
+          "email": "rajgopal17@gmail.com",
+          "phone number": "8326497569",
+          "gender":  "Male",
+          "specialization": "Orthopaedist" 
+        },
+    
+    {
+          "name": "Dr. Manish Banker",
+          "email": "manish78@gmail.com",
+          "phone number": "9732467212",
+          "gender": "Male",
+          "specialization": "nephrologist"
+        },
+    
+    
+    {
+          "name": "Dr. Suresh H. Advani",
+          "email": "suresh87@gmail.com",
+          "phone number": "9721273246",
+          "gender": "Male",
+          "specialization": "Cardiothoracic surgeon" 
+        },
+    
+    {
+          "name": "Dr Sandeep Vaishya",
+          "email": "sandeep12@gmail.com",
+          "phone number": "9732467212",
+          "gender": "Male",
+          "specialization": "hepatologist"
+        },
+    
+    {
+          "name": "Dr. I.P.S.Oberoi",
+          "email": "oberoi34@gmail.com",
+          "phone number": "8567349078",
+          "gender": "Male",
+          "specialization": "Endocrinologists(thyroid)" 
+        },
+    
+    {
+          "name": "Dr A B Govindaraj", 
+          "email": "govindaraj64@gmail.com",
+          "phone number": "8490785673",
+          "gender":  "Male",
+          "specialization": "Oncologist"
+        },
+    
+    {
+          "name": "Dr. Devi Prasad Shetty",
+          "email": "prasad44@gmail.com",
+          "phone number": "8785490673",
+          "gender": "Male",
+          "specialization": "nephrologist"
+        
+    },
+    
+    {
+          "name": "Dr Harit Chaturvedi",  
+          "email": " haritchaturvedi79@gmail.com",
+          "phone number": "7675450875",
+          "gender": "Male",
+          "specialization": "Endocrinologists(diabetes)"
+        },
+    
+    {
+          "name": "Dr Ajay Kaul",
+          "email": "ajaykauk10@gmail.com",
+          "phone number": "7508756754",
+          "gender": "Male",
+          "specialization": "Audiologist"
+        }
+    
+]
+    

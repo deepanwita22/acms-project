@@ -1,0 +1,42 @@
+[ 
+    {
+      "name":"diabetes",
+      "image":"https://images.app.goo.gl/wkxRT2f1ZW32iG8i7",
+      "Breakfast":"A bowl of oats and a cucumber",
+      "Lunch": ["1 bowl of salad+ 2 chapatis with 1 big bow of sabzi+1 bowl of dal",
+        "1 bowl of beetroot salad+ 2 chapatis with 1 big bow of sabzi+1 bowl of dal"],
+      "Dinner":["1 bowl of salad/2 cucumber+ 2 chapatis with 1 big bow of sabzi+1 bowl of dal/chicken/fish","rotis (without oil/ghee) or 3 phulkas or 1 medium bowl of rice + big plate of salad, 1 cup of vegetable curry"]
+      
+    },
+    {
+        "name": "thyroid",
+        "Breakfast":"A bowl of oats and a cucumber with 1 glass pomogranate juice",
+      "Lunch": ["1 bowl of beetroot salad+ 2 chapatis with 1 big bow of sabzi+1 bowl of dal","1 bowl of salad+ 2 chapatis with 1 big bow of sabzi+1 bowl of dal"],
+      "Dinner":["1 bowl of salad/2 cucumber+ 2 chapatis with 1 big bow of sabzi+1 bowl of dal/chicken/fish","a bowl of khichdi or kadi rice"]
+    },
+    {
+        "name": "Liver",
+        "Breakfast": "1 cup oats with 1/2 cup milk + 4-6 soaked almonds",
+        "Lunch": ["1 cup sprout salad with vegetables + 2 chapati or 1.5 rice + fresh veggie","1 bowl of beetroot salad+ 2 chapatis with 1 big bow of sabzi+1 bowl of dal"],
+        "Dinner": ["1.5 cup khichdi + 1 cup soup","A bowl of vegetable curry + a plate of salad + and a bowl of dal or curd"]
+    },
+    {
+        "name": "Kidney",
+        "Breakfast": "1/2 cup egg whites or 1 rice idli",
+        "Lunch": ["3/4 cup dal + 1 roti + 1/2 cup cauliflower or potato sabji + 3/4 Indian salad","1 bowl of salad/2 cucumber+ 2 chapatis with 1 big bow of sabzi+1 bowl of dal/chicken/fish"],
+        "Dinner": ["2 vegetable cutlets + 1 tablespoon mango chutney + 2 roti","2 multigrain rotis or 2 jowar/bajra bhakris or a bowl of khichdi or kadi rice"]
+    },
+    {
+        "name": "Bones",
+        "Breakfast": "1 cup oats with 1/2 cup milk + 4-6 soaked almonds",
+        "Lunch": ["roti/rice+ dal + green leafy vegetables/paneer","1 bowl of salad/2 cucumber+ 2 chapatis with 1 big bow of sabzi+1 bowl of dal/chicken/fish"],
+        "Dinner":  ["2 multigrain rotis or 2 jowar/bajra bhakris or a bowl of khichdi or kadi rice","A bowl of vegetable curry, a plate of salad, and a bowl of dal or curd"]
+
+    },
+    {
+        "name": "Cardio",
+        "Breakfast": "A bowl (30 g) of any Indian traditional homemade breakfast such as upma, poha, idli, boiled moong, dosa, dhokla, khandvi, thepla, paratha",
+        "Lunch":[ "rotis (without oil/ghee) or 3 phulkas or 1 medium bowl of rice + big plate of salad, 1 cup of vegetable curry, 1 medium bowl of curd and 1 medium bowl of dal","chicken (curry, grilled or roasted but not fried) or fish such as mackerel (curry but not fried)+ 1 cup rice/2roti"],
+        "Dinner": ["2 multigrain rotis or 2 jowar/bajra bhakris or a bowl of khichdi or kadi rice","A bowl of vegetable curry, a plate of salad, and a bowl of dal or curd"]
+    }
+  ]

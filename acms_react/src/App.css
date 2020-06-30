@@ -1,0 +1,218 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans&display=swap");
+.App {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-family: "Open Sans", sans-serif;
+  }
+.App1 {
+  
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Open Sans", sans-serif;
+  }  
+  .base-container {
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }  
+.h1 {
+    color:rgb(3, 5, 85);
+    text-align:right;
+    justify-content: center;
+    align-items: center;
+}
+.App-logo {
+    height: 40vmin;
+    pointer-events: none;
+  }
+.container{
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+.det{
+      text-align:left;
+      margin:10px auto;
+      padding:5px;
+      overflow:auto
+  }
+  
+  @media (prefers-reduced-motion: no-preference) {
+    .App-logo {
+      animation: App-logo-spin infinite 20s linear;
+    }
+  }
+  
+  .App-header {
+    background-color: #282c34;
+    min-height: 100vh;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+  
+  .App-link {
+    color: #61dafb;
+  }
+  
+  @keyframes App-logo-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+  .row-header{
+    margin:0px auto;
+    padding:0px auto;
+  }
+  
+  .row-content {
+    margin:0px auto;
+    padding: 40px 0px 40px 0px;
+    border-bottom: 1px ridge;
+    min-height:400px;
+  }
+  
+  .footer{
+    background-color: #000080;
+    margin:0px auto;
+    padding: 20px 0px 20px 0px;
+    position:absolute;
+    bottom:0;
+    width:100%;
+      /* Height of the footer */
+  }
+  .jumbotron {
+    padding:60px 30px 60px 30px;
+    margin:0px auto;
+    background:rgb(196, 224, 240);
+    color:floralwhite;
+  }
+  
+  address{
+    font-size:80%;
+    margin:0px;
+    color:#0f0f0f;
+  }
+  
+  .navbar-dark {
+    background-color: #000080
+  }
+  
+  .button {
+    background: rgb(9, 4, 75);
+    border-radius: 8px;
+    color: white;
+  }
+  .login {
+    width: 27em;
+    height: 59em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0px;
+    position: relative;
+    z-index: 99;
+ }
+  .login .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:rgb(10, 2, 26);
+    background-color: rgb(73, 155, 250);
+    box-shadow: 0px 0px 12px 2px rgba(15, 15, 15, 0.2);
+    border-radius: 4px;
+    position: relative;
+    z-index: 99;
+    width: 100%;
+    height: 100%;
+    z-index: 99;
+    padding: 0px 10px;
+ }
+  .login .right-side {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 110%;
+    background-color: #13118a;
+    width: 100%;
+    position: absolute;
+    right: -34%;
+    border-radius: 6px;
+    z-index: 1;
+    transition: all 400ms ease-in-out;
+    cursor: pointer;
+    box-shadow: 0px 0px 12px 2px rgba(15, 15, 15, 0.281);
+ }
+  .login .right-side.right {
+    right: -40%;
+    align-items: flex-end;
+ }
+  .login .right-side.right:hover {
+    right: -45%;
+ }
+  .login .right-side.left {
+    right: 40%;
+    align-items: flex-start;
+ }
+  .login .right-side.left:hover {
+    right: 45%;
+ }
+
+ base-container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.header {
+    font-size: 24px;
+    font-family: "Open Sans", sans-serif;
+}
+.content {
+    display: flex;
+    flex-direction: column;
+}
+
+.content .form {
+    margin-top: 2em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.content .form .form-group {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: fit-content;
+}
+.content .form .form-group label {
+    font-size: 20px;
+}
+.content .form .form-group input {
+    margin-top: 6px;
+    min-width: 18em;
+    height: 37px;
+    padding: 0px 10px;
+    font-size: 16px;
+    font-family: "Open Sans", sans-serif;
+    background-color: #f3f3f3;
+    border: 0;
+    border-radius: 4px;
+    margin-bottom: 31px;
+    transition: all 250ms ease-in-out;
+}
+.content .form .form-group input:focus {
+    outline: none;
+    box-shadow: 0px 0px 12px 0.8px #3474db b2;
+}
+.footer {
+    margin-top: 3em;
+}

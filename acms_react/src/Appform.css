@@ -1,0 +1,259 @@
+Appform.css
+
+/* Colors */
+/*
+dark blue: #476A6F
+light blue: #258EA6
+dark green: #519E8A
+medium green: #7EB09B
+light green: #A3C4BC
+*/
+
+.wrapper {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: #2690a8;
+  }
+
+  .form-wrapper {
+    height: 100vh;
+    width: 1400px;
+    display: flex;
+    flex-direction: column;
+    padding: 20px 40px;
+    border-radius: 50px;
+    box-shadow: 0px 10px 50px #555;
+    background-color: #ffffff;
+  }
+
+  form {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  h1 {
+    text-align: flex-start;
+    width: 100%;
+    color: #111;
+    font-weight: lighter;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+      Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  }
+  
+  label {
+    font-size: 0.8em;
+    margin-bottom: 0em;
+    color: #222;
+    font-weight: lighter;
+  }
+
+  input {
+    padding: 10px 10px;
+    border-radius: 5px;
+    outline: none;
+    border: 1px solid #cfcfcf;
+  }
+
+  input::placeholder {
+    font-size: 1.2em;
+    font-weight: lighter;
+    color: #999;
+  }
+
+  input.error {
+    border: 1px solid red;
+  }
+
+  .errorMessage {
+    color: red;
+    font-size: 0.75em;
+    display: relative;
+  }
+
+
+  .Cholesterollevels {
+    margin-left: 3%;
+  }
+
+  .Bpdia {
+    margin-left: 3%;
+  }
+
+  .Bpsys {
+    margin-left: 3%;
+  }
+
+  .Triglycerides {
+    margin-left: 3%;
+  }
+
+  .HDL {
+    margin-left: 3%;
+  }
+
+  .LDL {
+    margin-left: 3%;
+  }
+
+  .RBC {
+    margin-left: 3%;
+  }
+
+  .Ketone {
+    margin-left: 3%;
+  }
+
+  .ACR {
+    margin-left: 3%;
+  }
+
+  .T3 {
+    margin-left: 3%;
+  }
+
+  .T4 {
+    margin-left: 3%;
+  }
+
+  .TSH {
+    margin-left: 3%;
+  }
+
+  .Vitamind {
+    margin-left: 3%;
+  }
+
+  .Calcium {
+    margin-left: 3%;
+  }
+
+  .Phosphorous {
+    margin-left: 3%;
+  }
+
+  .Bun {
+    margin-left: 3%;
+  }
+
+  .Bilirubintotal {
+    margin-left: 3%;
+  }
+
+  .Bilirubindirect {
+    margin-left: 3%;
+  }
+
+  .Bilirubinindirect {
+    margin-left: 3%;
+  }
+
+  .Alkalinephosphatase {
+    margin-left: 3%;
+  }
+
+  .Globulin {
+    margin-left: 3%;
+  }
+
+  .AGratio {
+    margin-left: 3%;
+  }
+
+  .Creatinine {
+    margin-left: 3%;
+  }
+
+  .Uricacid {
+    margin-left: 3%;
+  }
+
+  .Totalprotein {
+    margin-left: 3%;
+  }
+
+  .Albumin {
+    margin-left: 3%;
+  }
+
+  .Glucosevalues {
+    margin-left: 3%;
+  }
+
+  .TotalCholestrol {
+    margin-left: 3%;
+  }
+
+
+  .Cholesterollevels,
+  .Bpdia,
+  .Bpsys,
+  .Triglycerides,
+  .HDL,
+  .LDL,
+  .RBC,
+  .Ketone,
+  .ACR,
+  .T3,
+  .T4,
+  .TSH,
+  .Vitamind,
+  .Calcium,
+  .Phosphorous,
+  .Bun,
+  .Bilirubintotal,
+  .Bilirubindirect,
+  .Bilirubinindirect,
+  .Alkalinephosphatase,
+  .Globulin,
+  .AGratio,
+  .Creatinine,
+  .Uricacid,
+  .Totalprotein,
+  .Albumin,
+  .Glucosevalues,
+  .TotalCholestrol {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 15px;
+  }
+
+
+  .Cholesterollevels {
+    width: 20%;
+  }
+
+  .Bpdia,
+  .Bpsys,
+  .Triglycerides,
+  .HDL,
+  .LDL,
+  .RBC,
+  .Ketone,
+  .ACR,
+  .T3,
+  .T4,
+  .TSH,
+  .Vitamind,
+  .Calcium,
+  .Phosphorous,
+  .Bun,
+  .Bilirubintotal,
+  .Bilirubindirect,
+  .Bilirubinindirect,
+  .Alkalinephosphatase,
+  .Globulin,
+  .AGratio,
+  .Creatinine,
+  .Uricacid,
+  .Totalprotein,
+  .Albumin,
+  .Glucosevalues,
+  .TotalCholestrol {
+    width: 20%;
+  }
